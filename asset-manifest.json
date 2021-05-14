@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/YaYouLeKyou/react-webstyle.git/static/css/main.e730e220.chunk.css",
+    "main.js": "/YaYouLeKyou/react-webstyle.git/static/js/main.ea46c321.chunk.js",
+    "main.js.map": "/YaYouLeKyou/react-webstyle.git/static/js/main.ea46c321.chunk.js.map",
+    "runtime-main.js": "/YaYouLeKyou/react-webstyle.git/static/js/runtime-main.c4da81bf.js",
+    "runtime-main.js.map": "/YaYouLeKyou/react-webstyle.git/static/js/runtime-main.c4da81bf.js.map",
+    "static/js/2.5e9d1c2f.chunk.js": "/YaYouLeKyou/react-webstyle.git/static/js/2.5e9d1c2f.chunk.js",
+    "static/js/2.5e9d1c2f.chunk.js.map": "/YaYouLeKyou/react-webstyle.git/static/js/2.5e9d1c2f.chunk.js.map",
+    "index.html": "/YaYouLeKyou/react-webstyle.git/index.html",
+    "precache-manifest.ea38f9b64fd1cfb7c839aa6f469b7dd8.js": "/YaYouLeKyou/react-webstyle.git/precache-manifest.ea38f9b64fd1cfb7c839aa6f469b7dd8.js",
+    "service-worker.js": "/YaYouLeKyou/react-webstyle.git/service-worker.js",
+    "static/css/main.e730e220.chunk.css.map": "/YaYouLeKyou/react-webstyle.git/static/css/main.e730e220.chunk.css.map",
+    "static/js/2.5e9d1c2f.chunk.js.LICENSE.txt": "/YaYouLeKyou/react-webstyle.git/static/js/2.5e9d1c2f.chunk.js.LICENSE.txt",
+    "static/media/Bok.mp4": "/YaYouLeKyou/react-webstyle.git/static/media/Bok.88f648fe.mp4",
+    "static/media/index.scss": "/YaYouLeKyou/react-webstyle.git/static/media/Questrial-Regular.37c8a1aa.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4da81bf.js",
+    "static/js/2.5e9d1c2f.chunk.js",
+    "static/css/main.e730e220.chunk.css",
+    "static/js/main.ea46c321.chunk.js"
+  ]
+}
